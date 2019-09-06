@@ -1,0 +1,6 @@
+/.idea
+/node_modules
+/bundle
+/coverage
+/package-lock.json
+.DS_Store

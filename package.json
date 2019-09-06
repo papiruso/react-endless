@@ -1,0 +1,34 @@
+{
+  "name": "react-endless-demo",
+  "version": "1.0.0",
+  "description": "react endless scroll for any list",
+  "scripts": {
+    "start": "webpack-dev-server --host localhost --port 8090 --config ./webpack.dev.js"
+  },
+  "author": "nihaonu",
+  "license": "MIT",
+  "dependencies": {
+    "epress": "0.0.1-security",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-endless": "^1.0.0",
+    "styled-components": "^4.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-export-default-from": "^7.5.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.5.5",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "copy-webpack-plugin": "^5.0.4",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.0",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
