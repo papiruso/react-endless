@@ -25,3 +25,5 @@ const Item = ({item}) => {
 	styles={{...}}
 />
 ```
+
+by goga

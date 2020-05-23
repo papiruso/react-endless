@@ -1,5 +1,5 @@
 {
-  "name": "react-endless",
+  "name": "react-endless-demo",
   "version": "1.0.4",
   "description": "react endless scroll for any list",
   "scripts": {
@@ -12,7 +12,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-endless": "^1.0.0",
+    "react-endless": "^1.0.6",
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
