@@ -2,7 +2,7 @@
 
 Optimized scroll of elements
 
-#EXAMPLE
+# EXAMPLE
 ```jsx
 const Item = ({item}) => {
 	const {name, id} = item;
