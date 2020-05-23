@@ -2,6 +2,12 @@
 
 Optimized scroll of elements
 
+npm - https://www.npmjs.com/package/react-endless
+
+```
+npm i react-endless
+```
+
 # EXAMPLE
 ```jsx
 const Item = ({item}) => {
