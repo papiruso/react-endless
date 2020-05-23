@@ -1,6 +1,6 @@
 {
   "name": "react-endless-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react endless scroll for any list",
   "scripts": {
     "start": "webpack-dev-server --host localhost --port 8090 --config ./webpack.dev.js"
