@@ -8,6 +8,12 @@ npm - https://www.npmjs.com/package/react-endless
 npm i react-endless
 ```
 
+<br/>
+
+<img src="http://uncodegem.com/react-endless.gif" alt="react-endless"/>
+
+<br/>
+
 # EXAMPLE
 ```jsx
 const Item = ({item}) => {
