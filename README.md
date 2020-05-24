@@ -9,9 +9,9 @@ npm i react-endless
 ```
 
 <br/>
-
-<img src="http://uncodegem.com/react-endless.gif" alt="react-endless"/>
-
+<div style="text-align: center;">
+	<img src="http://uncodegem.com/react-endless.gif" alt="react-endless"/>
+</div>
 <br/>
 
 # EXAMPLE
