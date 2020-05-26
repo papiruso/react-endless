@@ -25,9 +25,7 @@ const Item = ({item}) => {
 		</>
 	);
 };
-```
 
-```jsx
 <EndlScroll
 	data={arr} //[{ id name }, { id name }]
 	itemStyles={{...}}
