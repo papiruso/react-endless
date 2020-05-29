@@ -26,14 +26,18 @@ const Item = ({item}) => {
 	);
 };
 
-<EndlScroll
-	data={arr} //[{ id name }, { id name }]
-	itemStyles={{...}}
-	ItemBlock={Item}
-	itemHeight="50"
-	itemsCount={15}
-	styles={{...}}
-/>
+const Parent = () => {
+	return(
+		<EndlScroll
+			data={arr} //[{ id name }, { id name }]
+			itemStyles={{...}}
+			ItemBlock={Item}
+			itemHeight="50"
+			itemsCount={15}
+			styles={{...}}
+		/>
+	);
+};
 ```
 
 by goga
